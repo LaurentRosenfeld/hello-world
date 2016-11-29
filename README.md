@@ -1,2 +1,2 @@
 # hello-world
-Hell word test
+Hello world test
